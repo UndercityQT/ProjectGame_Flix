@@ -1,0 +1,1 @@
+Aplicação criada apenas para fins didáticos de html / css e javascript. 
